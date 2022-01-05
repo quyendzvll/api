@@ -19,7 +19,7 @@ closedir($img_ww);
 return $images;
 }
 $root = '';
-$path = 'gai/'; //tên thư mục chứa ảnh
+$path = 'hentai/'; //tên thư mục chứa ảnh
 $list = jukiee($root . $path);
 $link = 'https://apiquyenkaneki.herokuapp.com/';  //thay link relp/domain vào
 $img = kaneki($list);

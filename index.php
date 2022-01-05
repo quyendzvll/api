@@ -21,7 +21,7 @@
 <meta content='website' property='og:type'/>
 <meta content='https://www.leanhduc.pro.vn/' property='og:url'/>
 <meta content='Quyền Kaneki | Website' property='og:title'/>
-<meta content='Quyền Kaneki | Website - API | Phục vụ cho những ai chạy bot mess' property='og:description'/>
+<meta content='Quyền Kaneki | Website - Facebook | Công Nghệ - Giải Trí - Sáng Tạo' property='og:description'/>
 <meta content='https://i.imgur.com/lV3kgLf.jpg' property='og:image'/>
 <meta content='Quyền Kaneki  | Website' property='og:image:alt'/>
 <meta content='website' property='og:type'/>
@@ -151,14 +151,15 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/hentai'>Hentai</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/sex'>Sex</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/gai.php'>Gái</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/girl'>Girl</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/da'>Đá</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/punch'>Đấm</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/kiss'>Hôn</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/tat'>Tát</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/hentai'>Hentai</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/sex'>Sex</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.tk/gai.php'>Gái</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/girl'>Girl</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/da'>Đá</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/punch'>Đấm</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/kiss'>Hôn</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/tat'>Tát</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/tat'>Tát</a></div>
 
 <!--<div class="link"><span class="fa fa-discord-alt fa-fw"></span><a href="javascript:void prompt(&#34;my discord username&#34;, &#34;ptrcnull#3709&#34;)">discord</a></div>-->
 <!--<div class="link"><span class="fa fa-keybase fa-fw"></span><a href="https://keybase.io/ptrcnull">keybase</a></div>-->

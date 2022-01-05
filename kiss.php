@@ -19,7 +19,7 @@ closedir($img_ww);
 return $images;
 }
 $root = '';
-$path = 'gai/'; //tên thư mục chứa ảnh
+$path = 'kiss/'; //tên thư mục chứa ảnh
 $list = jukiee($root . $path);
 $link = 'https://apiquyenkaneki.herokuapp.com/';  //thay link relp/domain vào
 $img = kaneki($list);
@@ -32,7 +32,7 @@ $api1 = array(
 "data" => $link . $path . $img,
 "status" => "success",
 "count" => $duma,
-"author" => "Kaneki",
+"author" => "Kaneki"
 
 );
 $rdimg = json_encode($api1, JSON_UNESCAPED_SLASHES);
