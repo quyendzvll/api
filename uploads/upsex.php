@@ -25,7 +25,7 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
     $target_file = $target_dir . basename($_FILES['fileUpload']['name']);
     // Kiểm tra kiểu file hợp lệ
     $type_file = pathinfo($_FILES['fileUpload']['name'], PATHINFO_EXTENSION);
-    $type_fileAllow = array('png', 'jpg', 'jpeg', 'gif');
+    $type_fileAllow = array('png', 'jpg', 'jpeg', 'mp4', 'gif');
     if (!in_array(strtolower($type_file), $type_fileAllow)) {
         $error['fileUpload'] = "File bạn vừa chọn hệ thống không hỗ trợ, bạn vui lòng chọn hình ảnh";
     }
