@@ -21,7 +21,7 @@ return $images;
 $root = '';
 $path = 'gai/'; //tên thư mục chứa ảnh
 $list = jukiee($root . $path);
-$link = 'https://apiquyenkaneki.tk/';  //thay link relp/domain vào
+$link = 'https://apiquyenkaneki.herokuapp.com/';  //thay link relp/domain vào
 $img = kaneki($list);
 $duma = 0;
 $countfiles = glob($path . "*.{jpg,png,gif}",GLOB_BRACE);
