@@ -141,7 +141,7 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <center><span id='name'>Lê Công Quyền</span></center>
 <center><span id='nickname'>Quyền Kaneki</span></center>
 <center><p>Đây là web api của Quyền Kaneki</p></center>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://www.facebook.com/congquyen30062007'>Liên hệ tôi</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='https://www.facebook.com/congquyen30062007'>Liên hệ tôi</a></div>
 </div>
 </div>
 <div>
