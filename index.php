@@ -140,13 +140,13 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <center><img id='avatar' src='https://i.imgur.com/5ssOZtA.jpeg'/></center>
 <center><span id='name'>Lê Công Quyền</span></center>
 <center><span id='nickname'>Quyền Kaneki</span></center>
-<center><p>Đây là web api của Quyền Kaneki (api nào không hiển thị thì ib me link ở bên dưới)</p></center>
-<div class='link'><span class='fa fa-link'></span><a href='https://www.facebook.com/congquyen30062007'>Inbox me</a></div>
+<center><p>Đây là web api của Quyền Kaneki (api nào không hiển thị thì liên hệ tôi)</p></center>
+<div class='link'><span class='fa fa-link'></span><a href='https://www.facebook.com/congquyen30062007'>Facebook</a></div>
 </div>
 </div>
 <div>
 <div id='second-column'>
-<span id='socials'>𝓓𝓪𝓷𝓱 𝓼á𝓬𝓱 𝓬á𝓬 𝓐𝓹𝓲</span>
+<span id='socials'>𝓓𝓪𝓷𝓱 𝓼á𝓬𝓱 𝓬á𝓬 𝓐𝓹𝓲 (𝓴𝓲ể𝓶 𝓽𝓻𝓪 𝔁𝓮𝓶 𝓶𝓸𝓭𝓾𝓵𝓮 𝓬ủ𝓪 𝓫ạ𝓷 𝓷𝓱ậ𝓷 𝓭𝓪𝓽𝓪 𝓱𝓪𝔂 𝓾𝓻𝓵 𝓷𝓱é)</span>
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
