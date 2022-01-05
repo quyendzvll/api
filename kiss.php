@@ -30,7 +30,7 @@ $duma = count($countfiles);
 }
 $api1 = array(
 "author" => "Kaneki",
-"data" => $link . $path . $img,
+"url" => $link . $path . $img,
 "status" => "success",
 "count" => $duma
 
