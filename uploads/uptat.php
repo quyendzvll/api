@@ -21,7 +21,7 @@ echo "UP gif ảnh tát nhau\n";
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     //Bước 1: Tạo thư mục lưu file
     $error = array();
-    $target_dir = "https://apiquyenkaneki.tk/uploads/tát/";
+    $target_dir = "tát/";
     $target_file = $target_dir . basename($_FILES['fileUpload']['name']);
     // Kiểm tra kiểu file hợp lệ
     $type_file = pathinfo($_FILES['fileUpload']['name'], PATHINFO_EXTENSION);
