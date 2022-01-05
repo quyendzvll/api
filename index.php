@@ -155,10 +155,10 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/videosex.php'>Video sex</a></div>
 <div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/gai.php'>Gái</a></div>
 <div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/girl.php'>Girl</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/đá.php'>Đá</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/đấm.php'>Đấm</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/kiss.php'>Hôn</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/tát.php'>Tát</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/da'>Đá</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/punch'>Đấm</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/kiss'>Hôn</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/tat'>Tát</a></div>
 <div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/vú.php'>Vú</a></div>
 <div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/mông.php'>Mông</a></div>
 
