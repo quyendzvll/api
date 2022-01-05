@@ -21,7 +21,7 @@ echo "UP girl\n";
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
     //Bước 1: Tạo thư mục lưu file
     $error = array();
-    $target_dir = "girl/";
+    $target_dir = "https://apiquyenkaneki.tk/uploads/girl/";
     $target_file = $target_dir . basename($_FILES['fileUpload']['name']);
     // Kiểm tra kiểu file hợp lệ
     $type_file = pathinfo($_FILES['fileUpload']['name'], PATHINFO_EXTENSION);
