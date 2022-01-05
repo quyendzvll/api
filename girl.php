@@ -29,10 +29,10 @@ if ($countfiles){
 $duma = count($countfiles);
 }
 $api1 = array(
+"author" => "Kaneki",
 "data" => $link . $path . $img,
 "status" => "success",
-"count" => $duma,
-"author" => "Kaneki",
+"count" => $duma
 
 );
 $rdimg = json_encode($api1, JSON_UNESCAPED_SLASHES);
