@@ -166,16 +166,6 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <!--<div class="link"><span class="fa fa-keybase fa-fw"></span><a href="https://keybase.io/ptrcnull">keybase</a></div>-->
 <!--<div class="link"><span class="fa fa-pleroma fa-fw"></span><a href="https://donotsta.re/ptrcnull">donotsta.re</a></div>-->
 <!--<div class="link"><span class="fa fa-gnupg fa-fw"></span><a href="https://keyserver.ubuntu.com/pks/lookup">gpg</a></div>-->
-<span id='services'>Upload Ảnh</span>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upđá.php'>up ảnh đá nhau</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upđấm.php'>up ảnh đấm nhau</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upgai.php'>up ảnh gái</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upgirl.php'>up ảnh girl</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/uphentai.php'>up ảnh hentai</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upsex.php'>up video or ảnh sex</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/uptat.php'>up ảnh tát nhau</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upvú.php'>up ảnh vú</a></div>
-<div class='link'><span class='fa fa-link'></span><a href='uploads/upmông.php'>up ảnh mông</a></div>
 </div>
 </div>
 </div>
