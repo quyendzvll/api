@@ -10,7 +10,7 @@ function jukiee($path) {
 $images = array();
 if ( $img_ww = @opendir($path) ) {
 while ( false !== ($img_www = readdir($img_ww)) ) {
-if ( preg_match("/(\.gif|\.jpeg|\.jpg|\.png)$/", $img_www) ) {
+if ( preg_match("/(\.gif|\.mp4|\.jpeg|\.jpg|\.png)$/", $img_www) ) {
 $images[] = $img_www;
 }
 }
@@ -24,7 +24,7 @@ $list = jukiee($root . $path);
 $link = 'https://apiquyenkaneki.herokuapp.com/';  //thay link relp/domain vào
 $img = kaneki($list);
 $duma = 0;
-$countfiles = glob($path . "*.{jpeg,jpg,png,gif}",GLOB_BRACE);
+$countfiles = glob($path . "*.{mp4,jpeg,jpg,png,gif}",GLOB_BRACE);
 if ($countfiles){
 $duma = count($countfiles);
 }
