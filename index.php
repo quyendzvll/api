@@ -151,28 +151,31 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/hentai'>Hentai</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/sex'>Sex</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.tk/gai.php'>Gái</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/girl'>Girl</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/da'>Đá</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/punch'>Đấm</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/kiss'>Hôn</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/tat'>Tát</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apikaneki.tk/tat'>Tát</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/hentai.php'>Hentai</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/videosex.php'>Video sex</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/gai.php'>Gái</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/girl.php'>Girl</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/đá'>Đá</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/đấm.php'>Đấm</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/kiss.php'>Hôn</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/tát.php'>Tát</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/vú.php'>Vú</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/mông.php'>Mông</a></div>
 
 <!--<div class="link"><span class="fa fa-discord-alt fa-fw"></span><a href="javascript:void prompt(&#34;my discord username&#34;, &#34;ptrcnull#3709&#34;)">discord</a></div>-->
 <!--<div class="link"><span class="fa fa-keybase fa-fw"></span><a href="https://keybase.io/ptrcnull">keybase</a></div>-->
 <!--<div class="link"><span class="fa fa-pleroma fa-fw"></span><a href="https://donotsta.re/ptrcnull">donotsta.re</a></div>-->
 <!--<div class="link"><span class="fa fa-gnupg fa-fw"></span><a href="https://keyserver.ubuntu.com/pks/lookup">gpg</a></div>-->
 <span id='services'>Upload Ảnh</span>
-<div class='link'><span class='fa fa-spinner fa-spin'></span><a href='/uploads/upđá.php'>up ảnh đá nhau</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/upđá.php'>up ảnh đá nhau</a></div>
 <div class='link'><span class='fa fa-link'></span><a href='uploads/upđấm.php'>up ảnh đấm nhau</a></div>
-<div class='link'><span class='fa fa-file-pdf-o'></span><a href='/uploads/upgai.php'>up ảnh gái</a></div>
-<div class='link'><span class='fa fa-file-pdf-o'></span><a href='/uploads/upgirl.php'>up ảnh girl</a></div>
-<div class='link'><span class='fa fa-file-pdf-o'></span><a href='/uploads/uphentai.php'>up ảnh hentai</a></div>
-<div class='link'><span class='fa fa-file-pdf-o'></span><a href='/uploads/upsex.php'>up video sex</a></div>
-<div class='link'><span class='fa fa-file-pdf-o'></span><a href='/uploads/uptat.php'>up ảnh tát nhau</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/upgai.php'>up ảnh gái</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/upgirl.php'>up ảnh girl</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/uphentai.php'>up ảnh hentai</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/upsex.php'>up video or ảnh sex</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/uptat.php'>up ảnh tát nhau</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/upvú.php'>up ảnh vú</a></div>
+<div class='link'><span class='fa fa-link'></span><a href='uploads/upmông.php'>up ảnh mông</a></div>
 </div>
 </div>
 </div>
