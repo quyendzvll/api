@@ -151,16 +151,16 @@ a:hover{cursor:url("https://i.imgur.com/IXULuQ1.png"), auto;}
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 <div class='link'><span class='#'></span><a href='#'>​</a></div>
 
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/hentai.php'>Hentai</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/videosex.php'>Video sex</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/gai.php'>Gái</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/girl.php'>Girl</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/đá'>Đá</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/đấm.php'>Đấm</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/kiss.php'>Hôn</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/tát.php'>Tát</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/vú.php'>Vú</a></div>
-<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='https://apiquyenkaneki.herokuapp.com/mông.php'>Mông</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/hentai.php'>Hentai</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/videosex.php'>Video sex</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/gai.php'>Gái</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/girl.php'>Girl</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/đá'>Đá</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/đấm.php'>Đấm</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/kiss.php'>Hôn</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/tát.php'>Tát</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/vú.php'>Vú</a></div>
+<div class='link'><span class='fa fa-refresh fa-spin'></span><a href='Copy link này: https://apiquyenkaneki.herokuapp.com/mông.php'>Mông</a></div>
 
 <!--<div class="link"><span class="fa fa-discord-alt fa-fw"></span><a href="javascript:void prompt(&#34;my discord username&#34;, &#34;ptrcnull#3709&#34;)">discord</a></div>-->
 <!--<div class="link"><span class="fa fa-keybase fa-fw"></span><a href="https://keybase.io/ptrcnull">keybase</a></div>-->
